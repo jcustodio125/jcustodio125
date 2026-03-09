@@ -1,13 +1,19 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=00DBDE&width=600&lines=Jeickson+Cust%C3%B3dio" alt="Jeickson Custódio">
+# Jeickson Custódio
 
 <p align="center">
-  <i>Seja bem-vindo ao meu perfil!</i>
+  <i>Bem-vindo ao meu perfil profissional!</i>
 </p>
 
-<h2 align="center">Jeickson Custódio</h2>
+<p align="center">
+  Conecte-se comigo:
+</p>
 
 <p align="center">
-  <a href="https://github.com/JeicksonCustodio" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
+  <a href="https://www.linkedin.com/in/jeicksoncustodio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://wa.me/SEUNUMERODEWHATSAPP" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
