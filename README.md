@@ -1,7 +1,7 @@
 # Jeickson Custódio
 
 <p align="center">
-  <i>Bem-vindo ao meu perfil profissional!</i>
+  <i>Bem-vindo ao meu perfil!</i>
 </p>
 
 <p align="center">
